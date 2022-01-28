@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MAD_Practice_12</string>
+    <string name="input_email_hint">Input email</string>
+    <string name="registration">Registration</string>
+    <string name="input_password_hint">Input password</string>
+    <string name="register">Register</string>
+    <string name="confirm_password_hint">Confirm password</string>
+</resources>
